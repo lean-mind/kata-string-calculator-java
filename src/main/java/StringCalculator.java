@@ -1,6 +1,6 @@
 
 public class StringCalculator {
-    public static int sum(String numbers){
+    public int sum(String numbers){
         return 0;
     }
 }
